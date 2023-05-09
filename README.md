@@ -1,28 +1,36 @@
 # Unity week 5: Two-dimensional scene-building and path-finding
 
-A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
-and how to do path-finding using the BFS algorithm.
+## TileMap
 
-Text explanations are available 
-[here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 07.
+Version Unity : 2021.3.18f1
 
-## Cloning
-To clone the project, you may need to install git lfs first:
-
-    git lfs install 
+Itch.io: [https://galkoaz.itch.io/tilemap](https://galkoaz.itch.io/tilemap)
 
 
-## Credits
+* Player Movement : Arrows(Up,Down,Right,Left)
 
-Graphics:
-* [Ultima 4 Graphics](https://github.com/jahshuwaa/u4graphics) by Joshua Steele.
+* 1. Mission is to find the bunny to be able to Cross the bridge.
 
-Online course:
-* [Unity 2D](https://www.udemy.com/course/unitycourse/learn/lecture/10246496), a Udemy course by Gamedev.tv.
-* [Unity RPG](https://www.gamedev.tv/p/unity-rpg/?product_id=1503859&coupon_code=JOINUS).
+* 2. Mission is to take the ship and find the slime in the island to be able to cut the trees.
 
-Procedural generation:
-* [Habrador - Unity Programming Patterns](https://github.com/Habrador/Unity-Programming-Patterns#7-double-buffer)
+* TO EXIT THE SHIP PREES ARROW KEY + "G"
 
-Programming:
-* Erel Segal-Halevi
+* *In the ship you be able to active the dijkstra algorithm by use the mouse clicker*
+
+* TO CUT THE TREE PRESS ARROW KEY + "E"
+
+ENJOY :)
+
+----------------------------------
+
+<img src="https://i.ibb.co/HX4YZTt/image.png" alt="image" border="0">
+<img src="https://i.ibb.co/RhBSFsV/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/LCZyhzb/2.png" alt="2" border="0">
+<img src="https://i.ibb.co/GMQM9LN/3.png" alt="3" border="0">
+<img src="https://i.ibb.co/wrq60zW/4.png" alt="4" border="0">
+<img src="https://i.ibb.co/brTQN8t/5.png" alt="5" border="0">
+<img src="https://i.ibb.co/Srn9pKq/6.png" alt="6" border="0">
+
+
+
+
